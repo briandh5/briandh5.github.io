@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React.JS and firebase
+
+- You can reach me at brian.hawkins92@gmail.com
+
 <!--
 **briandh5/briandh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
