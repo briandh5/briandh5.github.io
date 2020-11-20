@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React.JS and firebase
+- 🌱 I’m currently learning React.JS, firebase, Tailwind and Postman
 
 - You can reach me at brian.hawkins92@gmail.com
 
