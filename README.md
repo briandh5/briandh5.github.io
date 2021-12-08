@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React.JS, firebase, Tailwind and Postman
+- 🌱 I’m currently learning React.JS and putting my ideas into Figma prototypes
 
 - You can reach me at brian.hawkins92@gmail.com
 
